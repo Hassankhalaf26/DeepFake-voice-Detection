@@ -1,7 +1,7 @@
 # Deep Fake-voice-Detection
 CNN-Based classification models for detecting Deep Fake Generated vocals using Spectrograms 
 
---- 
+------
 ## About the Dataset
 - The Dataset link: https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition
 ## File Structure
@@ -16,6 +16,7 @@ CNN-Based classification models for detecting Deep Fake Generated vocals using S
 - torchaudio_feature_extraction.png : this image demonstrates the different ways of representing an audio file in python
 - Models Best Weights
 	- contains .pth files for each model's best weights
+ - 
 - Final Summery Tuning: a raw text that has each model with its best tuning settings
 
 --- 
